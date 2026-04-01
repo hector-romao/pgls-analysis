@@ -1,5 +1,3 @@
-# [Título do seu artigo ou projeto]
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Code and data to reproduce the PGLS analyses in: "The Evolutionary Diversification and Neofunctionalization of Insect Lysozymes"
